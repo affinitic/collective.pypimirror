@@ -4,7 +4,7 @@
 mirror_file_path = ${:mirror-path}
 
 # The external URL of the mirror
-base_url = ${:url}
+base_url = ${:base-url}
 
 # lock file to ensure only a single run of the mirror script at a time
 lock_file_name = ${:lockfile}
